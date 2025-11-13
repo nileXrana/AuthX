@@ -27,6 +27,8 @@ npm install && cd backEnd && npm install
 
 2. **Environment variables**
 
+Copy `backEnd/.env.example` to `backEnd/.env` and fill in your values:
+
 `backEnd/.env`:
 ```
 PORT=5001
