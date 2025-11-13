@@ -10,7 +10,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: [process.env.FRONTEND_URL || 'https://authx-delta.vercel.app/','https://authx-delta.vercel.app//auth/signup'],
+  origin: "*",
   credentials: true,
 }));
 app.use(express.json());
