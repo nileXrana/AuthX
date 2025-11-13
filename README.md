@@ -16,7 +16,7 @@ A full-stack auth system with role-based signup/login and dashboards. Built with
 **Frontend:** Next.js 16, TypeScript, TailwindCSS, React Hook Form, Axios  
 **Backend:** Node.js, Express, MongoDB, JWT, bcryptjs
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone & install**
 ```bash
@@ -100,7 +100,3 @@ AuthX/
 - CORS configured for frontend
 - Protected routes via middleware
 - Zod input validation
-
-## 📄 License
-
-MIT License
