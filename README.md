@@ -27,11 +27,6 @@ npm install && cd backEnd && npm install
 
 2. **Environment variables**
 
-`frontEnd/.env.local`:
-```
-NEXT_PUBLIC_API_URL=http://localhost:5001/api
-```
-
 `backEnd/.env`:
 ```
 PORT=5001
